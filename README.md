@@ -1,5 +1,6 @@
+![logo](https://github.com/DAFI-707/DAFI-707/blob/main/eGy3m6DdQg-lg88Gf7IYjA.png)
 # 💫 About Me:
-🥷🏻 : MY NAME IS R.B.N. DAFI  <br>📚 : PASSION - I'M A STUDENT  <br>🌍 : I LIVE IN BARISHAL,BANGLADESH  <br>⚙️ : I'M A BEGINNER AT LEARNING PYTHON ! <br>💻 : I'M CURRENTLY WORKING ON SOME ACCOUNT CLONNING PYTHON TOOLS  <br>🔔 : I ALWAYS LIKE TO STAY IN FUN MOOD! <br>📩 : CONTACT - sigmadafi@gmail.com 
+🥷🏻 : NAME - R.B.N. DAFI  <br>📚 : PASSION - STUDENT  <br>🌍 : LOCATION - BARISHAL,BANGLADESH  <br>⚙️ : EXPERIENCE - BEGINNER AT LEARNING PYTHON  <br>💻 : PROJECT - ACCOUNT CLONNING PYTHON TOOLS  <br>🔔 : FACT - ALWAYS LIKE TO HAVE FUN  <br>📩 : CONTACT - sigmadafi@gmail.com 
 
 
 ## 🌐 Socials:
